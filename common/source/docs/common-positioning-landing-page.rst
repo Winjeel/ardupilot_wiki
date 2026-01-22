@@ -16,7 +16,6 @@ GPS/Compass
 .. toctree::
     :maxdepth: 1
     
-    AeroNav-1 GPS <common-AeroNav-1>
     ARK GPS <common-ark-gps>
     ARK DAN GPS <common-ark-dan-gps>
     ARK SAM GPS <common-ark-sam-gps>
@@ -48,6 +47,7 @@ GPS/Compass
     Qiotek DroneCAN GNSS M10 QMC5883  <https://www.qio-tek.com/index.php/product/qiotek-m10s-gnss-module/>
     Qiotek GNSS M10 QMC5883 <https://www.qio-tek.com/index.php/product/qiotek-m10s-gnss-module/>
     Qiotek DroneCAN RM3100 Compass <https://www.qio-tek.com/index.php/product/qiotek-rm3100-dronecan-module/>
+    Teravolt AeroNav-1 GPS <common-AeroNav-1>
     Zubax GNSS 2: GNSS + Compass + Barometer <common-zubax-gnss-positioning-module-gps-compass-and-barometer>
 
 RTK GPS
