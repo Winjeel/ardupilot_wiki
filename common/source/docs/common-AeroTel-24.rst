@@ -1,5 +1,5 @@
 .. _common-aerotel-24:
-
+[copywiki destination="plane,copter,rover,blimp,sub"]
 ======================================
 TeraVolt AeroTel 2.4 - Telemetry Radio
 ======================================
