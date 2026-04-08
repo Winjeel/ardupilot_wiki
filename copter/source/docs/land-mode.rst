@@ -46,10 +46,10 @@ features:
 -  If the vehicle has GPS lock the landing controller will attempt to
    control its horizontal position, but the pilot can adjust the target
    horizontal position just as in Loiter mode, unless the 
-   :ref:LAND_REPOSITION<LAND_REPOSITION> parameter is set to 0.
+   :ref:`LAND_REPOSITION<LAND_REPOSITION>` parameter is set to 0.
 -  If the vehicle does not have GPS lock the horizontal control will be
    as in stabilize mode, so the pilot can control the roll and pitch lean
-   angle of the copter, unless the :ref:LAND_REPOSITION<LAND_REPOSITION> parameter is set to 0.
+   angle of the copter, unless the :ref:`LAND_REPOSITION<LAND_REPOSITION>` parameter is set to 0.
 
 
 .. warning::
